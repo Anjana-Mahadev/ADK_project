@@ -1,0 +1,9 @@
+flask
+google-adk
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
